@@ -1,0 +1,3 @@
+# Install Chef
+gem install chef --no-ri --no-rdoc
+gem install berkshelf --no-rdoc --no-ri
